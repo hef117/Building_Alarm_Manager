@@ -13,6 +13,7 @@ public class bam {
 	}
  System.out.println(greeting.charAt(i));
  System.out.println("check connecton");
+ System.out.println("test");
 }
 }
 }
